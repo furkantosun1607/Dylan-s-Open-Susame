@@ -1,8 +1,8 @@
-# 🎸 Dylan Door AI
+# 🎸 Dylan's Open Susame AI
 
 ## Project Summary & Artistic Vision
 
-**Dylan Door AI** is an interactive web experience that invites users to *knock* on a virtual door.  By speaking into their microphone the app captures an audio snippet, transcribes it, and then, through a **Bob Dylan‑style AI persona**, generates:
+**Dylan Open Susame AI** is an interactive web experience that invites users to *knock* on a virtual door.  By speaking into their microphone the app captures an audio snippet, transcribes it, and then, through a **Bob Dylan‑style AI persona**, generates:
 
 - A short philosophical poem (3 lines) echoing the spirit of Dylan’s 1973 *‘Knockin’ on Heaven’s Door’*.
 - An evocative emotion / transition description.
