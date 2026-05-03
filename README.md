@@ -46,7 +46,7 @@ The result is displayed as a stylised, dark‑mode UI that feels like a 1970s we
 ### Backend
 ```bash
 # Clone the repo (assuming you have a remote – replace with your URL)
-git clone <your‑repo‑url>
+git clone https://github.com/furkantosun1607/Dylan-s-Open-Susame.git
 cd dylan_ai/backend
 
 # Create virtual environment
